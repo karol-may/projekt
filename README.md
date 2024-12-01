@@ -1,3 +1,3 @@
 # projekt
 
-> commit maks
+> commit z brancha
